@@ -1,7 +1,7 @@
 # Finance_QA_Chat: Fine-Tuning Llama 3 for Financial Question-Answering
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17kQFVqKDLmsWz4r9Xzkv3Y5GsHRNxbvR?usp=sharing)
 
-
+<img src="./fine-tuningLlama3.jpeg" alt="cells" style="max-width: 200px; height: 332px; display: block; margin: auto;">
 
 ## About the Project
 In this project, the fine-tuning technique is applied to Meta's open-source model, **Llama 3**, to obtain a Large Language Model (LLM) capable of answering questions and following instructions with specialized knowledge in the field of finance. The main objective is for this model to be used in the future by finance professionals and enthusiasts as a tool to solve problems in different real-world contexts.
