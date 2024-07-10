@@ -16,24 +16,3 @@ This project is open to receiving suggestions and constructive criticism to help
 
 ## Author
 Marina Comotti
-
-
-
-## About the project
-En este proyecto se aplica la técnica de fine-tuning sobre el modelo open-source de Meta, Llama 3, para obtener un LLM (Large Language Model) capaz de responder preguntas y seguir instrucciones con conocimiento especializado en el campo de las finanzas. El objetivo principal es que este modelo pueda ser utilizado en el futuro por profesionales y aficionados de las finanzas como herramienta que permita la resoluciòn de problemas en diferentes contextos del mundo real.
-
-El proyecto abarca todas las etapas del fine-tuning: obtención, limpieza y preprocesamiento de los datos, entrenamiento del modelo y su posterior evaluación y prueba. Para ello se utilizaron diversas herramientas, entre las cuales destaca principalmente la plataforma Hugging Face junto con PyTorch.
-
-El dataset utilizado fue sujet-ai/Sujet-Finance-Instruct-177k, el cual contiene 177,597 entradas con datos para el entrenamiento de modelos en diferentes tareas relacionadas al campo de las finanzas.
-
-Este proyecto continúa en construcción ya que se aplicará un proceso iterativo que buscará mejorar cada una de las etapas hasta lograr un modelo con las capacidades necesarias para servir como herramienta en la resolución de problemas financieros. Se buscará ampliar el dataset para incluir nuevos y mejores datos e incrementar el conocimiento del modelo para que sea capaz de resolver otras tareas como análisis de sentimiento o clasificación. Por último, en un futuro se buscará llevar el modelo a producción a través de una plataforma web y móvil, logrando así el principal objetivo de su entrenamiento: que pueda ser una herramienta para ser usada por usuarios para resolver problematicas reales.
-
-Este proyecto está abierto a recibir sugerencias y críticas constructivas que lo ayuden a mejorar.
-
-## Author
-Marina Comotti
-
-
-
-
-
