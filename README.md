@@ -12,7 +12,7 @@ The dataset used was **sujet-ai/Sujet-Finance-Instruct-177k**, which contains 17
 
 This project is still under development as an iterative process will be applied to improve each stage until achieving a model with the necessary capabilities to serve as a tool for solving financial problems. The aim is to expand the dataset to include new and better data and to enhance the model's knowledge so that it can address other tasks such as sentiment analysis or classification. Finally, in the future, the model will be brought to production through a web and mobile platform, thus achieving its main training objective: to be a tool used by users to solve real-world problems.
 
-This project is open to receiving suggestions and constructive criticism to help improve it.
+This project is open to receiving suggestions to help improve it.
 
 ## Author
 Marina Comotti
