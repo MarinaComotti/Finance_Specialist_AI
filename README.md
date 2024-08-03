@@ -1,4 +1,4 @@
-# Finance_QA_Chat: Fine-Tuning Llama 3 for Financial Question-Answering
+# Finance Specialist AI: Fine-Tuning Llama 3 for Financial Question-Answering
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17kQFVqKDLmsWz4r9Xzkv3Y5GsHRNxbvR?usp=sharing)
 
 <img src="./fine-tuningLlama3.jpeg" alt="cells" style="max-width: 200px; height: 332px; display: block; margin: auto;">
