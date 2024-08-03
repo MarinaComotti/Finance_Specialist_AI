@@ -1,5 +1,5 @@
 # Finance Specialist AI: Fine-Tuning Llama 3 for Financial Question-Answering
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17kQFVqKDLmsWz4r9Xzkv3Y5GsHRNxbvR?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZHG4yl99F9VQa1PKfbfhhas0U2KGNFmC?usp=sharing)
 
 <img src="./fine-tuningLlama3.jpeg" alt="cells" style="max-width: 200px; height: 332px; display: block; margin: auto;">
 
